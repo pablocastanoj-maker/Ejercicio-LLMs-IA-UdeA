@@ -1,0 +1,12 @@
+El Problema:
+
+Una empresa energética registra consumo cada hora, pero necesita obtener el consumo total por día para análisis.
+
+Tu Misión:
+
+Escribe una función llamada agrupar_consumo_diario(df) que:
+
+-Convierta timestamp a datetime.
+-Agrupe por día.
+-Calcule el consumo total diario.
+-Devuelva el resultado.
