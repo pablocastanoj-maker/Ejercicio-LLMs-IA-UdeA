@@ -1,0 +1,14 @@
+El Problema:
+
+Un sistema de clasificación requiere datos sin valores faltantes y correctamente escalados para funcionar adecuadamente.
+
+Tu Misión:
+
+Escribe una función llamada preparar_datos_clasificacion(df, target_col) que:
+
+-Separe X e y.
+-Impute valores faltantes con la media (SimpleImputer).
+-Escale los datos con StandardScaler.
+-Devuelva:
+-X (numpy array)
+-y (numpy array)
