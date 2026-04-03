@@ -1,0 +1,12 @@
+El Problema:
+
+En una planta industrial, los sensores registran datos continuamente. Sin embargo, debido a fallos en la comunicación, algunos valores pueden perderse o duplicarse. Antes de analizar estos datos, es necesario limpiarlos adecuadamente.
+
+Tu Misión:
+
+Escribe una función llamada limpiar_sensores(df) que:
+
+-Interpole los valores faltantes (NaN) usando interpolación lineal.
+-Rellene valores restantes con ffill y luego bfill.
+-Elimine filas duplicadas.
+-Devuelva el DataFrame limpio.
