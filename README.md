@@ -1,2 +1,3 @@
 # Ejercicio-LLMs-IA-UdeA
-Fase 1 ejercicio IA
+Estudiante: Pablo Castaño Jiménez
+Correo: pablo.castanoj@udea.edu.co
