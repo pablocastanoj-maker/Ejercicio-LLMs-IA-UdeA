@@ -1,0 +1,13 @@
+El Problema:
+
+Un sistema de mantenimiento predictivo necesita entrenar un modelo para detectar fallos en máquinas.
+
+Tu Misión:
+
+Escribe una función llamada entrenar_clasificador(df, target_col) que:
+
+-Separe X e y.
+-Divida los datos 80/20 (secuencial).
+-Escale con StandardScaler.
+-Entrene un LogisticRegression.
+-Devuelva las predicciones del conjunto de prueba.
